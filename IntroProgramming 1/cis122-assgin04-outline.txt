@@ -1,0 +1,9 @@
+#Prompt user for year
+#record year time
+#check if leap year
+#prompt user for day
+#record day
+#assign number range for each month
+#assign alternate number range for each month for leap years
+#get everything together
+#print all to user
